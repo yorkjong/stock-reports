@@ -1,0 +1,101 @@
+Symbol,Name,Market Cap,Sector,Industry
+AAPL,Apple Inc.,$2.825 T,Technology,Consumer Electronics
+MSFT,Microsoft Corporation,$2.328 T,Technology,Software—Infrastructure
+GOOG,Alphabet Inc.,$1.825 T,Communication Services,Internet Content & Information
+GOOGL,Alphabet Inc.,$1.825 T,Communication Services,Internet Content & Information
+AMZN,"Amazon.com, Inc.",$1.642 T,Consumer Discretionary,Internet Retail
+TSLA,"Tesla, Inc.",$1.016 T,Consumer Discretionary,Auto Manufacturers
+NVDA,Nvidia Corporation,$660.38 B,Technology,Semiconductors
+META,"Meta Platforms, Inc.",$617.50 B,Communication Services,Internet Content & Information
+ASML,ASML Holding N.V.,$274.35 B,Technology,Semiconductor Equipment & Materials
+AVGO,Broadcom Inc.,$265.27 B,Technology,Semiconductors
+COST,Costco Wholesale Corporation,$258.15 B,Consumer Staples,Discount Stores
+PEP,"PepsiCo, Inc.",$241.05 B,Consumer Staples,Beverages—Non-Alcoholic
+CSCO,"Cisco Systems, Inc.",$238.45 B,Technology,Communication Equipment
+CMCSA,Comcast Corporation,$218.90 B,Communication Services,Entertainment
+VZ,Verizon Communications Inc.,$216.68 B,Communication Services,Telecom Services
+AZN,AstraZeneca plc,$201.75 B,Healthcare,Drug Manufacturers—General
+INTC,Intel Corporation,$201.72 B,Technology,Semiconductors
+ADBE,Adobe Inc.,$199.57 B,Technology,Software—Infrastructure
+QCOM,Qualcomm Incorporated,$172.25 B,Technology,Semiconductors
+TXN,Texas Instruments Incorporated,$171.28 B,Technology,Semiconductors
+TMUS,"T-Mobile US, Inc.",$164.31 B,Communication Services,Telecom Services
+NFLX,"Netflix, Inc.",$163.19 B,Communication Services,Entertainment
+AMGN,Amgen Inc.,$141.72 B,Healthcare,Drug Manufacturers—General
+PYPL,"PayPal Holdings, Inc.",$133.92 B,Financials,Credit Services
+SNY,Sanofi,$132.29 B,Healthcare,Drug Manufacturers—General
+AMD,"Advanced Micro Devices, Inc.",$128.29 B,Technology,Semiconductors
+INTU,Intuit Inc.,$126.77 B,Technology,Software—Application
+AMAT,"Applied Materials, Inc.",$121.12 B,Technology,Semiconductor Equipment & Materials
+SBUX,Starbucks Corporation,$108.19 B,Consumer Discretionary,Restaurants
+ABNB,"Airbnb, Inc.",$105.07 B,Communication Services,Internet Content & Information
+CHTR,"Charter Communications, Inc.",$104.97 B,Communication Services,Entertainment
+ADP,"Automatic Data Processing, Inc.",$96.98 B,Industrials,Staffing & Employment Services
+BKNG,Booking Holdings Inc.,$95.02 B,Consumer Discretionary,Travel Services
+MDLZ,"Mondelez International, Inc.",$90.67 B,Consumer Staples,Confectioners
+JD,"JD.com, Inc.",$90.46 B,Consumer Discretionary,Internet Retail
+CME,CME Group Inc.,$87.17 B,Financials,Financial Data & Stock Exchanges
+MU,"Micron Technology, Inc.",$86.49 B,Technology,Semiconductors
+LRCX,Lam Research Corporation,$77.60 B,Technology,Semiconductor Equipment & Materials
+GILD,"Gilead Sciences, Inc.",$76.15 B,Healthcare,Drug Manufacturers—General
+REGN,"Regeneron Pharmaceuticals, Inc.",$74.91 B,Healthcare,Biotechnology
+TEAM,Atlassian Corporation Plc,$73.72 B,Technology,Software—Application
+MRNA,"Moderna, Inc.",$70.81 B,Healthcare,Biotechnology
+FISV,"Fiserv, Inc.",$68.68 B,Technology,Information Technology Services
+VRTX,Vertex Pharmaceuticals Incorporated,$67.49 B,Healthcare,Biotechnology
+EQIX,"Equinix, Inc. (REIT)",$66.35 B,Real Estate,REIT—Specialty
+EXC,Exelon Corporation,$65.53 B,Utilities,Utilities—Diversified
+ADI,"Analog Devices, Inc.",$62.00 B,Technology,Semiconductors
+NTES,"NetEase, Inc.",$59.76 B,Communication Services,Internet Content & Information
+WDAY,"Workday, Inc.",$58.70 B,Technology,Software—Application
+MRVL,Marvell Technology Group Ltd.,$58.36 B,Technology,Semiconductors
+MAR,"Marriott International, Inc.",$57.18 B,Consumer Discretionary,Lodging
+PDD,Pinduoduo Inc.,$57.09 B,Consumer Discretionary,Internet Retail
+KLAC,KLA Corporation,$56.48 B,Technology,Semiconductor Equipment & Materials
+KDP,Keurig Dr Pepper Inc.,$55.28 B,Consumer Staples,Beverages—Non-Alcoholic
+FTNT,"Fortinet, Inc.",$53.86 B,Technology,Software—Infrastructure
+NXPI,NXP Semiconductors N.V.,$52.28 B,Technology,Semiconductors
+XLNX,"Xilinx, Inc.",$52.19 B,Technology,Semiconductors
+AEP,"American Electric Power Company, Inc.",$50.95 B,Utilities,Utilities—Regulated Electric
+SNPS,"Synopsys, Inc.",$50.18 B,Technology,Software—Infrastructure
+ILMN,"Illumina, Inc.",$49.91 B,Healthcare,Diagnostics & Research
+MELI,"MercadoLibre, Inc.",$49.83 B,Consumer Discretionary,Internet Retail
+KHC,The Kraft Heinz Company,$49.42 B,Consumer Staples,Packaged Foods
+PAYX,"Paychex, Inc.",$49.23 B,Industrials,Staffing & Employment Services
+LULU,Lululemon Athletica Inc.,$48.52 B,Consumer Discretionary,Apparel Retail
+ORLY,"O'Reilly Automotive, Inc.",$48.14 B,Consumer Discretionary,Specialty Retail
+CRWD,"CrowdStrike Holdings, Inc.",$47.89 B,Technology,Software—Infrastructure
+ADSK,"Autodesk, Inc.",$47.69 B,Technology,Software—Application
+CTSH,Cognizant Technology Solutions Corporation,$47.07 B,Technology,Information Technology Services
+DXCM,"DexCom, Inc.",$46.86 B,Healthcare,Diagnostics & Research
+BIDU,"Baidu, Inc.",$45.98 B,Communication Services,Internet Content & Information
+VOD,Vodafone Group plc,$45.74 B,Communication Services,Telecom Services
+IDXX,"IDEXX Laboratories, Inc.",$45.64 B,Healthcare,Diagnostics & Research
+DDOG,"Datadog, Inc.",$45.13 B,Technology,Software—Application
+CTAS,Cintas Corporation,$44.32 B,Industrials,Specialty Business Services
+CDNS,"Cadence Design Systems, Inc.",$44.23 B,Technology,Software—Application
+MNST,Monster Beverage Corporation,$42.81 B,Consumer Staples,Beverages—Non-Alcoholic
+BNTX,BioNTech SE,$41.93 B,Healthcare,Biotechnology
+WBA,"Walgreens Boots Alliance, Inc.",$40.55 B,Healthcare,Pharmaceutical Retailers
+XEL,Xcel Energy Inc.,$39.76 B,Utilities,Utilities—Regulated Electric
+EBAY,eBay Inc.,$39.34 B,Consumer Discretionary,Internet Retail
+DLTR,"Dollar Tree, Inc.",$38.00 B,Consumer Staples,Discount Stores
+SBAC,SBA Communications Corporation,$37.93 B,Real Estate,REIT—Specialty
+EA,Electronic Arts Inc.,$37.38 B,Communication Services,Electronic Gaming & Multimedia
+ISRG,"Intuitive Surgical, Inc.",$35.37 B,Healthcare,Medical Instruments & Supplies
+ODFL,"Old Dominion Freight Line, Inc.",$34.94 B,Industrials,Trucking
+FAST,Fastenal Company,$34.58 B,Industrials,Industrial Distribution
+ALGN,"Align Technology, Inc.",$34.49 B,Healthcare,Medical Devices
+VRSK,"Verisk Analytics, Inc.",$34.39 B,Industrials,Consulting Services
+TROW,"T. Rowe Price Group, Inc.",$34.01 B,Financials,Asset Management
+ERIC,Telefonaktiebolaget LM Ericsson,$33.29 B,Technology,Communication Equipment
+ZM,"Zoom Video Communications, Inc.",$33.22 B,Communication Services,Telecom Services
+ROST,"Ross Stores, Inc.",$32.71 B,Consumer Discretionary,Apparel Retail
+PCAR,PACCAR Inc,$32.04 B,Industrials,Farm & Heavy Construction Machinery
+BIIB,Biogen Inc.,$31.35 B,Healthcare,Drug Manufacturers—General
+ZS,"Zscaler, Inc.",$31.03 B,Technology,Software—Infrastructure
+FITB,Fifth Third Bancorp,$30.46 B,Financials,Banks
+WLTW,Willis Towers Watson plc,$29.85 B,Financials,Insurance Brokers
+MTCH,"Match Group, Inc.",$29.82 B,Communication Services,Internet Content & Information
+CPRT,"Copart, Inc.",$29.58 B,Industrials,Specialty Business Services
+SIVB,SVB Financial Group,$28.91 B,Financials,Banks
