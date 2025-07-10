@@ -1,0 +1,31 @@
+Ticker,Sector,Industry,Price,EPS QoQ (%),QoQ 2Q Algo (%),QoQ 3Q Algo (%),EPS YoY (%),YoY 2Q Algo (%),EPS RS,TTM EPS,Rev RS,TTM RPS,TTM PE,Rating (EPS RS),Rating (Rev RS)
+DIS,Communication Services,Entertainment,120.61,0.28,4.64,-4.76,182.0,,12126.89,4.9,-3.72,51.856,24.79,99,63
+AMGN,Healthcare,Drug Manufacturers - General,296.52,1.75,-3.5,2.79,16.33,,1062.69,10.97,-1.66,63.49,27.33,96,83
+UNH,Healthcare,Healthcare Plans,302.91,0.14,-0.07,0.42,5.51,,343.67,23.9,-1.59,446.442,12.69,92,86
+CRM,Technology,Software - Application,270.92,0.0,0.0,0.08,0.02,0.08,132.58,6.39,-2.69,40.22,41.74,89,71
+JNJ,Healthcare,Drug Manufacturers - General,156.28,2.21,0.27,-0.74,2.39,,131.93,8.99,-9.06,37.112,17.54,86,43
+BA,Industrials,Aerospace & Defense,226.6,33.12,0.83,-3.28,2.5,,113.1,-17.97,0.51,101.82,,83,92
+MRK,Healthcare,Drug Manufacturers - General,83.71,0.36,0.19,-0.73,0.07,,67.5,6.88,-9.76,25.271,12.3,79,34
+NVDA,Technology,Semiconductors,162.88,-0.17,0.14,0.16,0.28,,65.43,3.09,60.8,6.059,52.86,76,99
+AMZN,Consumer Cyclical,Internet Retail,222.54,-0.17,0.3,0.13,0.62,,15.9,6.14,-2.69,61.785,36.2,73,71
+CSCO,Technology,Communication Equipment,69.27,0.03,-0.11,0.26,0.34,,1.46,2.45,-3.53,13.939,28.11,70,66
+MMM,Industrials,Conglomerates,155.98,0.53,-0.86,0.2,0.23,,-1.41,8.03,-17.34,44.732,19.8,66,4
+MSFT,Technology,Software - Infrastructure,503.51,0.07,-0.02,0.12,0.18,,-4.94,12.94,1.33,36.325,38.7,63,96
+V,Financial Services,Credit Services,357.76,0.0,-0.03,0.11,0.13,0.08,-7.76,9.95,-0.48,19.868,35.85,60,89
+JPM,Financial Services,Banks - Diversified,283.16,0.05,0.1,-0.4,0.14,,-8.67,20.39,-2.62,59.163,14.12,57,76
+GS,Financial Services,Capital Markets,696.56,0.17,0.42,-0.02,0.22,,-12.35,43.05,-9.37,163.514,16.45,53,40
+AXP,Financial Services,Credit Services,317.35,0.2,-0.15,-0.19,0.09,,-13.99,14.31,-1.99,87.764,22.65,50,79
+HD,Consumer Cyclical,Home Improvement Retail,371.04,-0.03,-0.03,-0.25,-0.05,0.26,-14.83,14.73,-5.11,164.473,25.57,47,60
+AAPL,Technology,Consumer Electronics,211.14,-0.46,1.48,-0.44,0.08,,-15.23,6.42,-7.87,26.455,33.1,43,50
+SHW,Basic Materials,Specialty Chemicals,351.54,0.05,-0.68,-0.1,0.01,,-17.36,10.58,-11.09,92.065,33.38,40,21
+KO,Consumer Defensive,Beverages - Non-Alcoholic,69.48,0.51,-0.29,0.18,0.04,,-17.55,2.49,-10.77,10.887,27.94,37,27
+PG,Consumer Defensive,Household & Personal Products,157.52,-0.23,0.18,0.27,0.01,,-19.53,6.3,-12.31,35.648,25.31,34,17
+HON,Industrials,Conglomerates,238.72,0.13,-0.1,-0.09,0.0,,-20.24,8.69,-5.49,60.342,27.31,30,53
+MCD,Consumer Cyclical,Restaurants,293.02,-0.08,-0.12,0.12,-0.02,,-21.03,11.34,-14.04,35.875,26.44,27,14
+VZ,Communication Services,Telecom Services,41.9325,-0.03,0.53,-0.4,0.06,,-26.87,4.2,-10.9,32.062,10.01,24,24
+WMT,Consumer Defensive,Discount Stores,96.81,-0.01,-0.01,0.02,-0.12,-0.2,-27.15,2.34,-8.35,85.311,40.81,21,47
+CAT,Industrials,Farm & Heavy Construction Machinery,402.18,-0.1,-0.09,-0.08,-0.37,-0.14,-29.97,20.51,-16.39,131.256,19.99,17,11
+IBM,Technology,Information Technology Services,290.14,-1.76,9.75,-6.53,-0.54,,-45.88,5.86,-10.63,67.965,49.01,14,30
+CVX,Energy,Oil & Gas Integrated,153.02,0.09,-0.35,0.02,-0.49,,-48.55,8.75,-9.38,109.273,17.58,11,37
+NKE,Consumer Cyclical,Footwear & Accessories,73.56,-0.44,0.11,-0.41,-0.43,,-49.38,2.16,-17.24,31.187,34.87,8,8
+TRV,Financial Services,Insurance - Property & Casualty,255.32,-4.27,0.66,1.37,-1.82,,-136.32,18.36,-5.2,206.638,13.94,4,57
